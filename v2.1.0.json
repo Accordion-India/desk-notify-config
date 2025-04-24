@@ -15,7 +15,7 @@
   },
 
   "autoUpdater": {
-    "enableAutoUpdates": false,
+    "enableAutoUpdates": true,
     "config": {
       "autoDownload": true,
       "allowDowngrade": true,
