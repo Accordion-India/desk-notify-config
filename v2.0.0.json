@@ -15,7 +15,7 @@
   },
 
   "autoUpdater": {
-    "enableAutoUpdates": false,
+    "enableAutoUpdates": true,
     "config": {
       "autoDownload": true,
       "allowDowngrade": true,
@@ -23,13 +23,6 @@
       "allowPrerelease": true,
       "disableWebInstaller": true,
       "autoRunAppAfterInstall": true
-    },
-    "seedUrlData": {
-      "provider": "github",
-      "owner": "merylitics",
-      "repo": "merilytics-deskalerts-autoupdater",
-      "token": "Z2hwX3VwQWZ1UFNlZkY5SFNjcm43UHBkSmNmN1hDS0lrejFQdzZJUw==",
-      "releaseType": "release"
     }
   },
 
@@ -44,7 +37,7 @@
   },
 
   "applicationName": {
-    "applicationName": "Desk Notify"
+    "applicationName": "Accordion Desk Notify"
    },
 
   "appIcon":{
