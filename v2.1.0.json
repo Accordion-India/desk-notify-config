@@ -26,10 +26,11 @@
     },
     "seedUrlData": {
       "provider": "github",
-      "owner": "merylitics",
-      "repo": "merilytics-deskalerts-autoupdater",
-      "token": "Z2hwX3VwQWZ1UFNlZkY5SFNjcm43UHBkSmNmN1hDS0lrejFQdzZJUw==",
-      "releaseType": "release"
+      "owner": "Accordion-India",
+      "repo": "deskalerts-autoupdater",
+      "token": "Z2hwX2dtWHF0SlhtZ2MxZUFETjFnY1hJRDFyamZLYTByQjJISEl2WA==",
+      "releaseType": "release",
+       "private": true
     }
   },
 
