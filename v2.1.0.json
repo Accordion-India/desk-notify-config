@@ -23,13 +23,6 @@
       "allowPrerelease": true,
       "disableWebInstaller": true,
       "autoRunAppAfterInstall": true
-    },
-    "seedUrlData": {
-      "provider": "github",
-      "owner": "Accordion-India",
-      "repo": "deskalerts-autoupdater",
-      "token": "Z2hwX2dtWHF0SlhtZ2MxZUFETjFnY1hJRDFyamZLYTByQjJISEl2WA==",
-      "releaseType": "release"
     }
   },
 
