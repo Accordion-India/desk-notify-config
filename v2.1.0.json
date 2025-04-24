@@ -29,8 +29,7 @@
       "owner": "Accordion-India",
       "repo": "deskalerts-autoupdater",
       "token": "Z2hwX2dtWHF0SlhtZ2MxZUFETjFnY1hJRDFyamZLYTByQjJISEl2WA==",
-      "releaseType": "release",
-       "private": true
+      "releaseType": "release"
     }
   },
 
